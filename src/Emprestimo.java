@@ -6,9 +6,9 @@ import java.time.LocalDate;
  * Registra a data do empréstimo e coordena as mudanças de estado
  * tanto no Livro quanto no Usuario envolvidos.
  *
- * @author [Seu Nome Aqui]
+ * @author [Everton Tallys & Antônio Vitor]
  * @version 1.1
- * @since 2024-05-29
+ * @since 2025-10-06
  * @see Livro
  * @see Usuario
  */
@@ -67,3 +67,4 @@ public class Emprestimo {
         System.out.println("Livro: " + livro.titulo + " | Usuário: " + usuario.nome + " | Data: " + dataEmprestimo);
     }
 }
+
