@@ -4,9 +4,9 @@
  * Esta classe é usada para gerenciar dados como nome, nacionalidade e idade
  * de um autor, além de simular ações como escrever um livro e apresentar os dados.
  *
- * @author [Seu Nome Aqui] 
+ * @author [Everton Tallys & Antônio Vitor] 
  * @version 1.0
- * @since 2024-05-28
+ * @since 2025-10-06
  */
 public class Autor {
     
@@ -61,3 +61,4 @@ public class Autor {
         System.out.println("Idade atualizada para " + idade + " anos.");
     }
 }
+
