@@ -27,7 +27,7 @@ public class Biblioteca {
         Autor autor = new Autor("Machado de Assis", "Brasileiro", 45);
         // Note que Livro agora espera o nome do autor como String, não o objeto Autor.
         Livro livro = new Livro("Dom Casmurro", autor.nome); 
-        Usuario usuario = new Usuario("Ana", 1001);
+        Usuario usuario = new Usuario("Roberto", 1001);
 
         autor.apresentarAutor();
         livro.mostrarInfo();
@@ -39,3 +39,4 @@ public class Biblioteca {
         emprestimo.devolverLivro();
     }
 }
+
