@@ -4,9 +4,9 @@
  * A classe gerencia o título, o autor e o estado (disponível ou emprestado) do livro,
  * fornecendo métodos para alterar este estado.
  *
- * @author [Seu Nome Aqui]
+ * @author [Everton Tallys & Antônio Vitor]
  * @version 1.0
- * @since 2024-05-29
+ * @since 2025-10-06
  */
 public class Livro {
     
@@ -63,3 +63,4 @@ public class Livro {
         System.out.println("Título: " + titulo + " | Autor: " + autor + " | Disponível: " + disponivel);
     }
 }
+
