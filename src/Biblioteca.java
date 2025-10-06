@@ -8,7 +8,7 @@ import java.time.LocalDate;
  *
  * @author [Everton Tallys & Antônio Vitor]
  * @version 1.0
- * @since 2024-05-28
+ * @since 2025-10-06
  * @see Autor
  * @see Livro
  * @see Usuario
@@ -39,4 +39,5 @@ public class Biblioteca {
         emprestimo.devolverLivro();
     }
 }
+
 
